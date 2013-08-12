@@ -1,4 +1,1 @@
-zf1example
-==========
-
-Example website based on ZF1
+# Dies ist eine Zend Framework 1 Beispielanwendung
